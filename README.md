@@ -1,8 +1,7 @@
 # Correlation and regression for data analysis
-# Developed by: GOKUL S
-# Reg no: 212224240045
-# Department: AI & ML
+
 # Date: 20.05.2025
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
