@@ -1,6 +1,7 @@
 # Correlation and regression for data analysis
-
-# Date: 20.05.2025
+# Name : GOKUL S
+# Register No : 2122242400045
+# Date: 28.03.2025
 
 # Aim : 
 
